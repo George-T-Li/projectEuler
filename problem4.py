@@ -5,6 +5,7 @@ def is_palindrome(s):
     return forwardString==reversed
 
 def largest_palindrome_product(n):
+    """Calculates the largest palindrome that is a product of two n-digit numbers"""
     lowest = 10**(n-1)
     highest = 10**n
     largest = -1

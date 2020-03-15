@@ -2,6 +2,7 @@
 import math
 
 def largest_prime_factor(n):
+    """Calculates the largest prime factor of n"""
     limit = math.floor(math.sqrt(n))
 
     for i in range(2, limit+1):

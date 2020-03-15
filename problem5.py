@@ -2,7 +2,7 @@
 from problem3 import largest_prime_factor
 
 def smallest_multiple(n):
-    """Calculates the smallest number that evenly divides all of 1..n"""
+    """Calculates the smallest number that evenly divides all of 1, 2, ..., n"""
     result = 1
     for i in range(2, n+1):
         lpf = largest_prime_factor(i)

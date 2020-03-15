@@ -1,5 +1,6 @@
 # Even Fibonacci numbers
 def even_Fibonnaci_numbers(n):
+    """Calculates the sum of all even Fibonnaci numbers < n"""
     sum = 0
     f0 = 0
     f1 = 1
