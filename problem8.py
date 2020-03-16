@@ -17,5 +17,5 @@ def largest_n_adjacent_product(fname, n):
             largest = product
     return largest
 
-print("adjacent 4:", largest_n_adjacent_product("problem8.txt", 4))
-print("adjacent 13:", largest_n_adjacent_product("problem8.txt",13))
+#print("adjacent 4:", largest_n_adjacent_product("problem8.txt", 4))
+#print("adjacent 13:", largest_n_adjacent_product("problem8.txt",13))

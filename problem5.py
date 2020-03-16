@@ -10,6 +10,6 @@ def smallest_multiple(n):
             result *= lpf
     return result
 
-print("1-10:", smallest_multiple(10))
-print("1-20:", smallest_multiple(20))
+#print("1-10:", smallest_multiple(10))
+#print("1-20:", smallest_multiple(20))
     
