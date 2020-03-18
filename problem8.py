@@ -5,7 +5,6 @@ def largest_n_adjacent_product(fname, n):
         s = ""
         for line in f:
             s += line[:-1]
-    f.close()
         
     largest = 0
     for i in range(1000 - (n-1)):

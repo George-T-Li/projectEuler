@@ -6,7 +6,6 @@ def get_grid(fname):
         for line in f:
             row = line[:-1].split(" ")
             grid.append(row)
-    f.close()
     return grid
 
 def largest_product_in_grid(fname, n):
