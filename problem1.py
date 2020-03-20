@@ -10,4 +10,4 @@ def multiples_of_3_and_5(n):
             sum += i
     return sum
 
-print("1000:", multiples_of_3_and_5(1000))
+#print("1000:", multiples_of_3_and_5(1000))

@@ -9,5 +9,5 @@ def sum_squares_difference(n):
     sumThenSquared = sumThenSquared**2
     return sumThenSquared - sumOfSquares
 
-print("1-10:", sum_squares_difference(10))
-print("1-100:", sum_squares_difference(100))
+#print("1-10:", sum_squares_difference(10))
+#print("1-100:", sum_squares_difference(100))

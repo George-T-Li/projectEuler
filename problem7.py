@@ -15,5 +15,5 @@ def nth_prime(n):
             counter += 1
     return numberToCheck
 
-print("6th:", nth_prime(6))
-print("10001st:", nth_prime(10001))
+#print("6th:", nth_prime(6))
+#print("10001st:", nth_prime(10001))

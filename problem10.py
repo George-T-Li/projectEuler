@@ -9,5 +9,5 @@ def sum_of_primes(n):
             total += i
     return total
 
-print("10:", sum_of_primes(10))
-print("2000000:", sum_of_primes(2000000))
+#print("10:", sum_of_primes(10))
+#print("2000000:", sum_of_primes(2000000))

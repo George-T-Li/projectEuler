@@ -19,5 +19,5 @@ def largest_palindrome_product(n):
                     y = j
     return largest, x, y
 
-print("2-digit:", largest_palindrome_product(2))
-print("3-digit:", largest_palindrome_product(3))
+#print("2-digit:", largest_palindrome_product(2))
+#print("3-digit:", largest_palindrome_product(3))

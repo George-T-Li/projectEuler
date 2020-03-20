@@ -11,5 +11,5 @@ def largest_prime_factor(n):
             return largest_prime_factor(quo)
     return n
 
-print("13195:", largest_prime_factor(13195))
-print("600851475143:", largest_prime_factor(600851475143))
+#print("13195:", largest_prime_factor(13195))
+#print("600851475143:", largest_prime_factor(600851475143))
